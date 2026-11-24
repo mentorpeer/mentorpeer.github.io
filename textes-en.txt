@@ -2,7 +2,6 @@
 # Change seulement ce qui est APRÈS le signe =. Une ligne = un texte. Ne change pas les mots avant le =.
 # Ne mets pas de retour à la ligne dans un texte. Les lignes qui commencent par # sont ignorées.
 
-nav_join = Sign up
 hero_tag = Peer mentoring for first-year men
 hero_title = Starting university is a real challenge.
 hero_lead = We offer you the opportunity to be matched with a 2nd or 3rd-year mentor who has been through the same journey as you and from whom you can seek advice (all free of charge).
