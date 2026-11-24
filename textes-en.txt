@@ -49,7 +49,6 @@ a4 = No, the mentor is still a student just like you, and that is actually his s
 q5 = How often do we meet?
 a5 = You and your mentor decide together. Meetings can be short and flexible, in person or online.
 join_title = Get matched with a mentor
-join_help = This helps us pair you with a mentor you will click with: same field, same interests.
 join_btn = Sign up
 join_privacy = We only use your details to contact you and to match you with the right person for this program.
 thanks_title = You're on the list!
